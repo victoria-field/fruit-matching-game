@@ -1,0 +1,31 @@
+
+
+    #fruits, #droparea {
+      float: left;
+      width: 100%;
+      padding: 50px;
+    }
+
+    #fruits div, #droparea div {
+      width: 130px;
+      height: 130px;
+      border: 4px solid black;
+      float: left;
+      margin: 5px;
+      padding: 5px;
+      border-radius: 5px;
+      background: white;
+      text-align: center;
+      cursor: pointer;
+      font-size: 25px;
+    }
+
+    #fruits div img {
+      width: 100px;
+      height: 100px;
+    }
+
+    #droparea div {
+
+      line-height: 130px;
+    }
